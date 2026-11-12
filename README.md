@@ -184,5 +184,5 @@ This project uses entirely synthetic banking customer data created for education
 
 **Project Type:** Exploratory Data Analysis (EDA)  
 **Domain:** Banking and Finance  
-**Level:** Beginner  
+**Level:** Beginner–Intermediate
 **Author:** Snehal
