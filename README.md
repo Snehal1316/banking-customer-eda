@@ -28,7 +28,7 @@ This project performs Exploratory Data Analysis (EDA) on 1,200 synthetic banking
 | Metric | Result |
 |---|---:|
 | Original records | 1,200 |
-| Original columns | 19 (verify) |
+| Original columns | 19 |
 | Duplicate rows | 0 |
 | Duplicate customer IDs | 0 |
 | Initial missing values | 105 |
