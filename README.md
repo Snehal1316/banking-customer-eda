@@ -1,9 +1,18 @@
 
 # Banking Customer Behaviour Analysis
 
-## Project Overview
+## Project Overview 
 
 This project performs Exploratory Data Analysis (EDA) on 1,200 synthetic banking customer records using Python. The objective is to understand customer demographics, account activity, digital banking adoption, loan behaviour, and customer churn while identifying meaningful business insights.
+
+## Project Highlight
+
+-Analysed 1,200 synthetic banking customer records across 19 columns.
+-Cleaned 105 missing values using median imputation for selected numerical columns.
+-Performed exploratory analysis of customer demographics, accounts, digital banking, loans, and churn.
+-Created five visualizations using Matplotlib and Seaborn.
+-Identified customer behaviour patterns and developed five business recommendations.
+-Exported the cleaned dataset and saved visualizations for reporting.
 
 ## Tools and Technologies
 
